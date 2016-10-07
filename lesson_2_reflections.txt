@@ -22,3 +22,7 @@ What is the result of merging two branches together?
 Why do we represent it in the diagram the way we do?
 It comboines the work from two branches into one branch.  We do it this way because it keeps all of the history
 of the previous changes from both branches.
+
+What are the pros and cons of Git's automatic mergiving vs always doing merges manually?
+It saves time and headache from doing it manually, but sometimes the automatic merge misses 
+easy fixes to conflicts
