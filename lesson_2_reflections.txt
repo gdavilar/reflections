@@ -9,3 +9,8 @@ This is good because it allows you to control what files are commited.
 
 How can you use the staging area to make sure you have one commit per logical change?
 The staging area allows me to see what files have changed and ensure I am only pushing the files I want to.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+Using branches would allow me to create different versions of the program, without affecting the 
+original master version.
