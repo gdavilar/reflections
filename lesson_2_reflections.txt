@@ -14,3 +14,6 @@ What are some situations when branches would be helpful in keeping your history 
 How would branches help?
 Using branches would allow me to create different versions of the program, without affecting the 
 original master version.
+
+how do the diagrams help you visualize the branch structure?
+It helps visualize the layout the history and to know what can be reached back to.
