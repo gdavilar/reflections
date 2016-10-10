@@ -26,7 +26,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Saving versions or revisions of files and share those with others.
+    They can see what was changed in the revision and approve or disapprove of the changes.
+    This would be easier for small project or small groups, but it would be very 
+    cumbersome with the larger projects and large groups.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
